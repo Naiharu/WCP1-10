@@ -67,7 +67,7 @@ nav{
 	background-color: #ECEFF1;
 	text-align: center;
 }
-.main-content{
+.main-content h2{
 	font-size: 32px;
 	color: #000000;
 	padding-top: 90px;
@@ -328,10 +328,6 @@ footer{
 		color: #FAFAFA;
 		padding-top:10px;
 		text-align: center;
-	}
-	.main-content{
-		width: 90%;
-		margin: 0 auto;
 	}
 	.main-content-text{
 		width:90%;
